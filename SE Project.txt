@@ -1,3 +1,4 @@
 Welcome to our Car Service Management System.
 
 Our car service management system will be provided to the customer through an app. 
+We want to automate the car repairing, cleaning and other services.  
