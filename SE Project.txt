@@ -1,1 +1,3 @@
-Welcome to our Car Service Management System
+Welcome to our Car Service Management System.
+
+Our car service management system will be provided to the customer through an app. 
